@@ -1,0 +1,22 @@
+{
+  "name": "mysql_demo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "latest",
+    "mysql": "latest",
+    "body-parser": "latest"
+  },
+  "description": "MySQL Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjeev Kumar",
+  "license": "ISC"
+    "dependencies": {
+    "express": "latest",
+    "mysql": "latest",
+    "body-parser": "latest"
+  }
+}
